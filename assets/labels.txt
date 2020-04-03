@@ -1,0 +1,5 @@
+anillo-ring
+esclava-bracelet
+aretes-earrings
+collar-necklace
+reloj-watch
